@@ -1,0 +1,17 @@
+{
+  "name": "nft-game",
+  "version": "1.0.0",
+  "description": "simple nft game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "Nataly Coding",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0"
+  }
+}
